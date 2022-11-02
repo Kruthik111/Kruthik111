@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kruthik111
 - 👀 I’m interested in web and development.
 - 🌱 I’m currently learning DSA and solving problems on leetcode.
-- 💞️ I’m looking to collaborate on other devs who can guide me.
+- 💞️ I’m looking to collaborate with other devs who can guide me.
 - 📫 How to reach me ,mail- gokruthik2003@gmail.com
 
 <!---
