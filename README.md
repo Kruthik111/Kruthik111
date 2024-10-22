@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kruthik111&show_icons=true&locale=en" alt="kruthik111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruthik111&" alt="kruthik111" /></p>
+
+[![An image of @kruthik111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kruthik111)](https://holopin.io/@kruthik111)
