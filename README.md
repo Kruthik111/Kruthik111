@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kruth1k" target="blank"><img src="https://img.shields.io/twitter/follow/kruth1k?logo=twitter&style=for-the-badge" alt="kruth1k" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Clone](https://github.com/Kruthik111/Youtube)
+- 🔭 I’m currently working on [Youtube Clone](https://youtubev7.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
