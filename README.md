@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+-  View my new portfolio site available at [https://kruthiks.vercel.app/](https://kruthiks.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [https://kruthik.netlify.app/](https://kruthik.netlify.app/)
 
 - 💬 Ask me about **react**
